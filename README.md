@@ -1,4 +1,10 @@
 # studypods2.0
+s.no.=1
+date
+file name=
+today'stask-/...
+problems=i didn
+solutions=......
 <!DOCTYPE html>
 <html lang="en">
 
